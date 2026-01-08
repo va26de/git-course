@@ -1,2 +1,2 @@
-# git-course
-University Git course
+Repository for my university git-course
+
